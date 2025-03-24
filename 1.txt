@@ -1,0 +1,11 @@
+eda me good processing aarha hai
+dropout for overfitting
+data augmentation image number increased for better accuracy
+used parallel processing so that cores can be utilised for faster performance
+15 epochs for an optimal processing so that overfitting can be prevented
+batch size related ram memory problems - thats why used val and train generators
+we freezed the last layers of transfered learening models instead of omitting or discarding them
+ensemble model different names have to be kept for different models of the epochs
+memory prblems came so we used garbage collector
+architecture problems came so we modified the input and architecture layers according to the transfered learning models
+optimiser problem and modified the learning rate for better functioning
